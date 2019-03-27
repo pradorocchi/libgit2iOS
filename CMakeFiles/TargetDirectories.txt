@@ -1,0 +1,14 @@
+/Users/vin/Downloads/libgit2-master/build/CMakeFiles/install.dir
+/Users/vin/Downloads/libgit2-master/build/CMakeFiles/RUN_TESTS.dir
+/Users/vin/Downloads/libgit2-master/build/CMakeFiles/ALL_BUILD.dir
+/Users/vin/Downloads/libgit2-master/build/CMakeFiles/ZERO_CHECK.dir
+/Users/vin/Downloads/libgit2-master/build/src/CMakeFiles/install.dir
+/Users/vin/Downloads/libgit2-master/build/src/CMakeFiles/git2.dir
+/Users/vin/Downloads/libgit2-master/build/src/CMakeFiles/RUN_TESTS.dir
+/Users/vin/Downloads/libgit2-master/build/src/CMakeFiles/git2internal.dir
+/Users/vin/Downloads/libgit2-master/build/deps/http-parser/CMakeFiles/install.dir
+/Users/vin/Downloads/libgit2-master/build/deps/http-parser/CMakeFiles/RUN_TESTS.dir
+/Users/vin/Downloads/libgit2-master/build/deps/http-parser/CMakeFiles/http-parser.dir
+/Users/vin/Downloads/libgit2-master/build/tests/CMakeFiles/install.dir
+/Users/vin/Downloads/libgit2-master/build/tests/CMakeFiles/RUN_TESTS.dir
+/Users/vin/Downloads/libgit2-master/build/tests/CMakeFiles/libgit2_clar.dir
