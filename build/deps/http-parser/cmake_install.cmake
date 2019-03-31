@@ -1,4 +1,4 @@
-# Install script for directory: /Users/vin/Downloads/libgit2-master/deps/http-parser
+# Install script for directory: /Users/vin/dev/other/libgit2iOS/deps/http-parser
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -29,6 +29,6 @@ endif()
 
 # Is this installation the result of a crosscompile?
 if(NOT DEFINED CMAKE_CROSSCOMPILING)
-  set(CMAKE_CROSSCOMPILING "ON")
+  set(CMAKE_CROSSCOMPILING "FALSE")
 endif()
 

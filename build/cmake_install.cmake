@@ -1,4 +1,4 @@
-# Install script for directory: /Users/vin/Downloads/libgit2-master
+# Install script for directory: /Users/vin/dev/other/libgit2iOS
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -29,13 +29,13 @@ endif()
 
 # Is this installation the result of a crosscompile?
 if(NOT DEFINED CMAKE_CROSSCOMPILING)
-  set(CMAKE_CROSSCOMPILING "ON")
+  set(CMAKE_CROSSCOMPILING "FALSE")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("/Users/vin/Downloads/libgit2-master/build/src/cmake_install.cmake")
-  include("/Users/vin/Downloads/libgit2-master/build/tests/cmake_install.cmake")
+  include("/Users/vin/dev/other/libgit2iOS/build/src/cmake_install.cmake")
+  include("/Users/vin/dev/other/libgit2iOS/build/tests/cmake_install.cmake")
 
 endif()
 
@@ -47,5 +47,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/vin/Downloads/libgit2-master/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/vin/dev/other/libgit2iOS/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

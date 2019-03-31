@@ -1,1 +1,1 @@
-dependencies: /Users/vin/Downloads/libgit2-master/build/src/dummy.c
+dependencies: /Users/vin/dev/other/libgit2iOS/build/src/dummy.c

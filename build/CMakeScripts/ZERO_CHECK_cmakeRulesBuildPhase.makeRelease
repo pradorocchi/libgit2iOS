@@ -2,9 +2,9 @@
 # Custom rules for ZERO_CHECK
 .SUFFIXES: 
 all: \
-	/Users/vin/Downloads/libgit2-master/build/CMakeFiles/ZERO_CHECK
+	/Users/vin/dev/other/libgit2iOS/build/CMakeFiles/ZERO_CHECK
 
 
-/Users/vin/Downloads/libgit2-master/build/CMakeFiles/ZERO_CHECK: 
+/Users/vin/dev/other/libgit2iOS/build/CMakeFiles/ZERO_CHECK: 
 	echo ""
-	make -f /Users/vin/Downloads/libgit2-master/build/CMakeScripts/ReRunCMake.make
+	make -f /Users/vin/dev/other/libgit2iOS/build/CMakeScripts/ReRunCMake.make

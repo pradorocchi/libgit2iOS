@@ -1,2 +1,2 @@
 dependencies: \
-  /Users/vin/Downloads/libgit2-master/build/CMakeFiles/3.14.0/CompilerIdC/CMakeCCompilerId.c
+  /Users/vin/dev/other/libgit2iOS/build/CMakeFiles/3.14.0/CompilerIdC/CMakeCCompilerId.c

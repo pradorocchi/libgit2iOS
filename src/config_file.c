@@ -339,7 +339,7 @@ static int config_set_multivar(
 
 	result = p_regcomp(&preg, regexp, REG_EXTENDED);
 	if (result != 0) {
-		git_error_set_regex(&preg, result);§
+		git_error_set_regex(&preg, result);
 		result = -1;
 		goto out;
 	}
